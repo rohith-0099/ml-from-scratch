@@ -1,6 +1,5 @@
-<!-- Banner Section -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/ml-banner.png" alt="Machine Learning Learning Path Banner" width="100%" />
+  <img src="assets/ml-banner.png" alt="Machine Learning Learning Path Banner" width="100%">
 </p>
 
 # 📚 Machine Learning Learning Path
@@ -75,7 +74,9 @@ Clone the repository:
 git clone https://github.com/your-username/your-repo-name.git
 ```
 
-Navigate to a folder and open `.ipynb` notebooks with **Jupyter Notebook** or **JupyterLab**.  
+> ⚠️ Replace `your-username/your-repo-name.git` with the actual path to your GitHub repository.
+
+Then navigate to a folder and open `.ipynb` notebooks with **Jupyter Notebook** or **JupyterLab**.  
 
 ---
 
@@ -118,4 +119,3 @@ If you like this project, **give it a star** ⭐ on GitHub to show support!
 <p align="center">
   Made with ❤️ for Machine Learning  
 </p>
-
