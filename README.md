@@ -103,9 +103,6 @@ Contributions and suggestions are welcome!
 
 ---
 
-## ⭐ Support
-If you like this project, give it a star ⭐
-
 <p align="center">
   Made with ❤️ for Machine Learning
 </p>
